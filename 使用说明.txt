@@ -1,0 +1,6 @@
+1.在Anaconda官网(https://www.anaconda.com/download/success)下载miniconda
+2.在开始菜单搜索并打开Anaconda Prompt并且复制这行代码"pip install -r requirements.txt"并且回车运行(这会让miniconda自动下载软件所需第三方插件和库还有依赖)
+3.在Anaconda Prompt里面继续输入"conda activate paddleocr_env"(启动paddleocr插件的虚拟环境)
+4.下载VScode或者其它python编译器，然后打开ocr_case_manager(主程序)，和log_viewer（日志生成程序）。
+5.按ctrl+shift+P呼出搜索界面后输入并且选择"select interpretor"(选择解释器)，选择"paddleocr_env"（这步仅适用于使用VScode内核的编译器）
+6.运行ocr_case_manager即可
