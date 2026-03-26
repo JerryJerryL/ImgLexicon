@@ -27,8 +27,8 @@ ImgLexicon 是一款面向本地图像资料管理与全文检索的工具，旨
 
 ## 项目贡献者 (Contributors)
 
-* **Yuchen Li** (@JerryJerryL)：负责主程序逻辑开发、ONNX 模块集成及项目打包。
-* **Haoyuan Chen** (@ChenHY532)：感谢在图片测试、UI 逻辑建议及代码调试过程中提供的帮助。
+* [**Yuchen Li**](https://github.com/JerryJerryL) (@JerryJerryL)：负责主程序逻辑开发、ONNX 模块集成及项目打包。
+* [**Haoyuan Chen**](https://github.com/ChenHY532) (@ChenHY532)：感谢在环境配置及代码调试过程中提供的帮助。
 
 ## 开源协议
 
