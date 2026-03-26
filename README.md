@@ -16,7 +16,6 @@ ImgLexicon 是一款基于 OCR 技术的本地图像案例管理与全文检索�
 ## 技术栈
 - **核心逻辑**: Python 3.x
 - **OCR 推理**: ONNXRuntime (基于 PaddleOCR 模型转换)
-- **GUI 界面**: Tkinter / PySide (根据你的实际情况写)
 
 ## 使用说明
 1. **导入案例**：选择包含图片的文件夹，系统将自动进行 OCR 识别。
